@@ -7,13 +7,12 @@ Two teams were formed:
 ![](img/TeamTerminator.JPG)
 
 * Team Terminator
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list.
-⋅⋅* Unordered sub-list.
-⋅⋅* Unordered sub-list. 
-
+  * Cody Cheng
+  * Habib Ben Rajab
+  * Marcin Armata
+  * Glenn David McCall
+  * Prasanna Easwarananthan
+  * Trevor Pay
 
 ![](img/TeamParkCityRollers.JPG)
 
