@@ -7,6 +7,13 @@ Two teams were formed:
 ![](img/TeamTerminator.JPG)
 
 * Team Terminator
+⋅⋅* Unordered sub-list. 
+⋅⋅* Unordered sub-list. 
+⋅⋅* Unordered sub-list. 
+⋅⋅* Unordered sub-list.
+⋅⋅* Unordered sub-list.
+⋅⋅* Unordered sub-list. 
+
 
 ![](img/TeamParkCityRollers.JPG)
 
