@@ -38,4 +38,4 @@ Terminators
 ## Some real life examples 
 *Please have a quick skim through those in order to have a guideline and meet expectations*
  * [example 1](https://thinkbiganalytics.box.com/s/ko9atg7ykmp39vht7c9251hcizlsqzv4)
- * [example 1](https://thinkbiganalytics.box.com/s/9r9fpa3r3uucxvp9yktfp2kdpf2jjoy7)
+ * [example 2](https://thinkbiganalytics.box.com/s/9r9fpa3r3uucxvp9yktfp2kdpf2jjoy7)
