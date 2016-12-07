@@ -11,7 +11,7 @@ _test
 Terminators
 ============
 
-## **TODOs** Open Tasks
+## __TODOs__ / Open Tasks
 1. Prepare questions for Sheldon – the Engineering guy (MA, TP)
 2. Prepare questions for Cliff – the Operations guy (CC, HB, GM, PE)
 3. Enter the recorded answer from the CEO Interview in google spreadsheet (ALL)
@@ -37,5 +37,5 @@ Terminators
 
 ## Some real life examples 
 *Please have a quick skim through those in order to have a guideline and meet expectations*
-[example 1](https://thinkbiganalytics.box.com/s/ko9atg7ykmp39vht7c9251hcizlsqzv4)
-[example 1](https://thinkbiganalytics.box.com/s/9r9fpa3r3uucxvp9yktfp2kdpf2jjoy7)
+ * [example 1](https://thinkbiganalytics.box.com/s/ko9atg7ykmp39vht7c9251hcizlsqzv4)
+ * [example 1](https://thinkbiganalytics.box.com/s/9r9fpa3r3uucxvp9yktfp2kdpf2jjoy7)
