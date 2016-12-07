@@ -15,6 +15,9 @@ Terminators
 1. Prepare questions for Sheldon – the Engineering guy (MA, TP)
 2. Prepare questions for Cliff – the Operations guy (CC, HB, GM, PE)
 3. Enter the recorded answer from the CEO Interview in google spreadsheet (ALL)
+4. Create Roadmap PPT from folder "300 terminators/Think Big PowerPoint Template (16-9 widescreen).pptx" 
+ * keep 10/20/30 rule in mind
+ * discuss structure for "our" story 
 
 ##  Daily scrum
  - What were you doing yesterday?
